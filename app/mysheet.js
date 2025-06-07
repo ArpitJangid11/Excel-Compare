@@ -74,7 +74,7 @@ const Mysheet = () => {
                 Email
               </th>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
-                state
+                State
               </th>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
                 Mobile
