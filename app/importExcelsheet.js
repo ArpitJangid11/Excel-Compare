@@ -22,7 +22,7 @@ const ExcelToHtml = ({ title }) => {
       setData(jsonData);
     };
 
-    reader.readAsArrayBuffer(file); // ✅ Modern and safe
+    reader.readAsArrayBuffer(file);
   };
   return (
     <div>
