@@ -68,16 +68,16 @@ const Mysheet = () => {
           <thead>
             <tr className='bg-gradient-to-r from-blue-500 to-purple-600 text-white'>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
-                name
+                Name
               </th>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
-                email
+                Email
               </th>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
                 state
               </th>
               <th className='border border-gray-300 px-4 py-3 text-left font-semibold'>
-                mobile
+                Mobile
               </th>
             </tr>
           </thead>
